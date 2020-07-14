@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm [Nurettin Coban](http://www.nurettincoban.com/) !
+
+if you want to be keep up to date on my adventures, follow me everywhere.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/thenurettin?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/thenurettin) 
 
 <!--
 **nurettincoban/nurettincoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

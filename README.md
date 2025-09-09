@@ -1,24 +1,31 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm <span style="color:#00C4FF;">Nurettin Çoban</span></h1>
-<h3 align="center">🚀 Software Engineer | Scalable & High-Performance Systems Enthusiast</h3>
+<!-- WELCOME HEADER -->
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7D2AE8&height=220&section=header&text=Nurettin%20Çoban&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40)
+
+</div>
 
 ---
 
-<!-- Typing SVG -->
+<!-- INTRO -->
+<h2 align="center">🚀 Software Engineer | Scalable & High-Performance Systems Enthusiast</h2>  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer;Loves+Building+Scalable+Systems;Always+Learning+Cutting+Edge+Tech" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Crafting+robust+and+scalable+software;Cloud-native+%7C+Distributed+Systems;Clean+Architecture+%7C+High+Performance;Always+learning+%7C+Always+building" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-💡 I thrive on solving complex problems and designing **scalable, high-performance applications**.  
-⚡ Always exploring the latest in **cloud-native technologies, distributed systems, and software architecture**.  
-📚 Lifelong learner who enjoys **sharing knowledge & building open-source projects**.  
+✨ Passionate about designing **scalable, resilient, and high-performance software**.  
+🌍 Exploring **cloud-native architectures, distributed systems, and DevOps tooling**.  
+🧠 Strong believer in **clean code, automation, and lifelong learning**.  
+⚡ Fun fact: I enjoy turning complex problems into elegant solutions.  
 
 ---
 
-## 🌐 Let's Connect  
+## 🌐 Connect With Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nurettincoban/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,6 +37,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nurettincoban&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+<!-- FOOTER -->
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7D2AE8,100:00C4FF&height=150&section=footer)
+
+</div>

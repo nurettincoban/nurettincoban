@@ -20,6 +20,12 @@
 <a href="mailto:cobannurettin@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://x.com/thenurettin">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://medium.com/@nurettinc">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7D2AE8,100:00C4FF&height=120&section=footer)
 

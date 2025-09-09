@@ -6,10 +6,28 @@
 
 ---
 
-<a href="https://www.linkedin.com/in/nurettincoban/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:cobannurettin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://x.com/thenurettin"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" /></a>
-<a href="https://medium.com/@nurettinc"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
+✨ Building **scalable, resilient, high-performance systems**  
+🤖 Passionate about **AI, Machine Learning & Intelligent Systems**  
+🧠 Believer in **clean code & lifelong learning**  
+
+---
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nurettincoban/">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&color=C0A060&size=28" alt="LinkedIn" />
+</a>
+<a href="mailto:cobannurettin@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/C0A060" width="28" alt="Email" />
+</a>
+<a href="https://x.com/thenurettin">
+  <img src="https://cdn.simpleicons.org/x/C0A060" width="28" alt="X" />
+</a>
+<a href="https://medium.com/@nurettinc">
+  <img src="https://cdn.simpleicons.org/medium/C0A060" width="28" alt="Medium" />
+</a>
+
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C0A060,100:5C4033&height=60&section=footer)
 

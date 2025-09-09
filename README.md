@@ -9,7 +9,7 @@
 ---
 
 ✨ Building **scalable, resilient, high-performance systems**  
-🤖 Passionate about **AI, Machine Learning & Intelligent Systems**  
+🤖 Passionate about **AI, Intelligent Systems**  
 🧠 Believer in **clean code & lifelong learning**  
 
 ---

@@ -1,17 +1,40 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/nurettincoban/">
-    <img src="https://cdn.simpleicons.org/linkedin/8B8B8B" width="20" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/nurettincoban/" title="LinkedIn">
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="22"
+      height="22"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:cobannurettin@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/8B8B8B" width="20" alt="Email">
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:cobannurettin@gmail.com" title="Email">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="22"
+      height="22"
+      alt="Email"
+    />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/thenurettin">
-    <img src="https://cdn.simpleicons.org/x/8B8B8B" width="20" alt="X">
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/thenurettin" title="X">
+    <img
+      src="https://cdn.simpleicons.org/x/FFFFFF"
+      width="22"
+      height="22"
+      alt="X"
+    />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@nurettinc">
-    <img src="https://cdn.simpleicons.org/medium/8B8B8B" width="20" alt="Medium">
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://medium.com/@nurettinc" title="Medium">
+    <img
+      src="https://cdn.simpleicons.org/medium/FFFFFF"
+      width="22"
+      height="22"
+      alt="Medium"
+    />
   </a>
 </div>

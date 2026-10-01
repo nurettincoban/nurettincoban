@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/nurettincoban/" title="LinkedIn">
-    <img src="assets/linkedin.svg" width="22" height="22" alt="LinkedIn" />
+    <img src="linkedin.svg" width="22" height="22" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:cobannurettin@gmail.com" title="Email">

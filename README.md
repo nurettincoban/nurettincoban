@@ -24,7 +24,7 @@
 
 <br />
 
-Hi, I'm Nurettin. I build products, one commit at a time, currently at Virta, in Finland. Lately that means helping AI coding agents build the *right* thing, not just build things fast.
+Hi, I'm Nurettin. I build products, currently at Virta, in Finland. Lately that means helping AI coding agents build the *right* thing, not just build things fast.
 
 ### What I'm building
 

@@ -8,7 +8,7 @@
 <p>
   <a href="https://nurettincoban.github.io/"><img alt="Website" src="https://img.shields.io/badge/nurettincoban.github.io-ff9a76?style=flat-square"></a>
   <a href="https://nurettincoban.github.io/cv/nurettin-coban-cv.pdf"><img alt="Download CV" src="https://img.shields.io/badge/Download_CV-ff9a76?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/nurettincoban/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-17161b?style=flat-square&logo=linkedin&logoColor=ff9a76"></a>
+  <a href="https://www.linkedin.com/in/nurettincoban/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-17161b?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPHBhdGggZmlsbD0iI2ZmOWE3NiIgZD0iTTEzLjYgMEgyLjRBMi40IDIuNCAwIDAgMCAwIDIuNHYxMS4yQTIuNCAyLjQgMCAwIDAgMi40IDE2aDExLjJhMi40IDIuNCAwIDAgMCAyLjQtMi40VjIuNEEyLjQgMi40IDAgMCAwIDEzLjYgMFpNNC45IDEzLjRIMi42VjZoMi4zdjcuNFpNMy43IDVhMS4zIDEuMyAwIDEgMSAwLTIuNyAxLjMgMS4zIDAgMCAxIDAgMi43Wm05LjcgOC40aC0yLjNWOS44YzAtLjkgMC0yLTEuMi0ycy0xLjQuOS0xLjQgMS45djMuN0g2LjJWNmgyLjJ2MWguMWMuMy0uNiAxLjEtMS4yIDIuMi0xLjIgMi40IDAgMi44IDEuNiAyLjggMy42djRaIi8%2BPC9zdmc%2B"></a>
   <a href="https://x.com/thenurettin"><img alt="X" src="https://img.shields.io/badge/X-17161b?style=flat-square&logo=x&logoColor=ff9a76"></a>
   <a href="https://medium.com/@nurettinc"><img alt="Medium" src="https://img.shields.io/badge/Medium-17161b?style=flat-square&logo=medium&logoColor=ff9a76"></a>
   <a href="https://open.spotify.com/artist/51cQ2Nmn14MVBDEQ7j4gst"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-17161b?style=flat-square&logo=spotify&logoColor=ff9a76"></a>
